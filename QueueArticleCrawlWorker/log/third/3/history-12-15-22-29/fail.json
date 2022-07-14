@@ -1,0 +1,27 @@
+{"category":{"id":15,"name":"Giải trí"},"code":"ERR_BAD_REQUEST","level":"info","message":"Request failed with status code 429","website":{"id":19,"name":"VTC"}}
+{"category":{"id":15,"name":"Giải trí"},"code":"ERR_BAD_REQUEST","level":"info","message":"Request failed with status code 429","website":{"id":19,"name":"VTC"}}
+{"category":{"id":6,"name":"Thể thao"},"code":"ERR_BAD_REQUEST","level":"info","message":"Request failed with status code 429","website":{"id":19,"name":"VTC"}}
+{"category":{"id":6,"name":"Thể thao"},"code":"ERR_BAD_REQUEST","level":"info","message":"Request failed with status code 429","website":{"id":19,"name":"VTC"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":10,"name":"Thế giới"},"level":"info","message":"Unexpected type of selector","website":{"id":8,"name":"Cafef"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":9,"name":"Sự kiện"},"level":"info","message":"Unexpected type of selector","website":{"id":24,"name":"Lao động"}}
+{"category":{"id":10,"name":"Thế giới"},"code":"Z_DATA_ERROR","level":"info","message":"incorrect header check","website":{"id":21,"name":"Sài Gòn Giải Phóng"}}
+{"category":{"id":5,"name":"Pháp luật"},"code":"Z_DATA_ERROR","level":"info","message":"incorrect header check","website":{"id":21,"name":"Sài Gòn Giải Phóng"}}
